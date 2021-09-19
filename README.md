@@ -24,3 +24,11 @@ pip2 install lolcat
  pip2 install nodejs 
 
 pip2 install npm 
+
+git clone https://github.com/Hamayun01/toolbest
+
+cd toolbest 
+
+python2 toolbest.py
+
+ENJOY
