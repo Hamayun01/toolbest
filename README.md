@@ -29,6 +29,6 @@ git clone https://github.com/Hamayun01/toolbest
 
 cd toolbest 
 
-python2 toolbest.py
+python2 Updated.Max
 
 ENJOY
