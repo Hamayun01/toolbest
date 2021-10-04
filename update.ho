@@ -746,7 +746,7 @@ def menu_select():
 
 		                                                
 
-		                                                                                                            ok.close()
+
 
 	  except:
             pass
