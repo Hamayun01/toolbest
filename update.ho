@@ -744,7 +744,7 @@ def menu_select():
 
 		                                                    oks.append(uid)
 
-		                                                else:
+		                                                
 
 		                                                                                                            ok.close()
 
